@@ -1,1 +1,5 @@
-*.txt
+teste01.txt
+.gitignore
+pastaignorada/
+keyone
+keyone.pub
